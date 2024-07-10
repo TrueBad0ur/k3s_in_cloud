@@ -1,0 +1,7 @@
+terraform/terraform.tfstate
+terraform/vkcs_provider.tf
+terraform/.terraform/*
+terraform/.terraform.lock.hcl
+terraform/mcs1405272978-openrc.sh
+terraform/terraform.tfstate.backup
+kubeconfig
