@@ -16,7 +16,7 @@ cd k3s-ansible
 ansible-playbook playbooks/site.yml -i inventory.yml
 ```
 
-Copy ~/kube/kubeconfig from amster node to local
+Copy ~/kube/kubeconfig from master node to local
 
 Change 127.0.0.1 to your master node ip there
 
